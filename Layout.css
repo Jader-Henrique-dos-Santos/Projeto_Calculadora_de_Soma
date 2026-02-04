@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: cornflowerblue;
+
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#coluna{
+    border: 2px solid black;
+
+    box-sizing: border-box;
+
+    width: 50rem;
+    height: 10rem;
+
+    margin: 6px;
+    padding: 5px;
+}
+
+input{
+    margin: 10px;
+}
