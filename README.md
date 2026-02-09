@@ -38,7 +38,8 @@ no navegador.
 
 ## 📸 Preview
 
-![Preview](img/preview.png)
+<img width="815" height="641" alt="preview" src="https://github.com/user-attachments/assets/8385f979-6e36-4917-8a22-b1a86ff9aea1" />
+
 
 ## 📂 Estrutura
 
